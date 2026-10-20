@@ -1,0 +1,6 @@
+{
+  "name": "Adrar Mega-Farm OS",
+  "description": "Industrial Operating System & Command Center for the Adrar Megafarm (270k cattle, 1,400 center pivots, 219k ha, 193k t/yr milk powder) by Baladna & FNI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
